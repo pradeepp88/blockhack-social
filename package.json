@@ -1,0 +1,25 @@
+{
+  "name": "social-key",
+  "version": "1.0.0",
+  "description": "A Mobile Wallet for storing SSID and Private keys with Social Key Recovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepp88/blockhack-social.git"
+  },
+  "keywords": [
+    "social",
+    "wallet",
+    "SSID",
+    "key"
+  ],
+  "author": "Team-Social",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradeepp88/blockhack-social/issues"
+  },
+  "homepage": "https://github.com/pradeepp88/blockhack-social#readme"
+}
